@@ -12,6 +12,7 @@ public class Student
 {
     private String name; // encapsulation 
    private  int age;
+    //for fetch and merge
 
     /**
      * @return the name
